@@ -1,0 +1,17 @@
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.pdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.csprojResolveAssemblyReference.cache
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.MainPage.xaml.g.cs
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.App.xaml.g.cs
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.pdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\obj\Debug\MonkeyHubApp.dll.mdb
+c:\users\aaraojunior\documents\visual studio 2017\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.mdb
