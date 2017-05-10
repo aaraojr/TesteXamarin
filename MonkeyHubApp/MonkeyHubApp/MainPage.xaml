@@ -2,11 +2,27 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MonkeyHubApp"
-             x:Class="MonkeyHubApp.MainPage">
+             x:Class="MonkeyHubApp.MainPage"
+             Title="Pagina Inicial">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="About" Command="{Binding AboutCommand}"/>
+    </ContentPage.ToolbarItems>
 
     <StackLayout>
-        <Entry Text="{Binding SearchTerm}" />
-        <Button Text="Pesquisar" Command="{Binding SearchCommand}" />
+        <Entry Text="{Binding SearchTerm}"/>
+        <Button Text="Pesquisar" Command="{Binding SearchCommand}"/>
+
+        <ListView ItemsSource="{Binding Resultados}" ItemSelected="ListView_OnItemSelected">
+            <ListView.Header>
+                <Label Text="Tags"/>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding Description}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 
 </ContentPage>
